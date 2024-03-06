@@ -3,17 +3,17 @@ body {
 }
 
 .parent-container {
+    margin-left: 400px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
-    margin-left: 450px;
     margin-top: 50px;
     border-radius: 15px;
     display: flex;
-    width: 60%;
+    width: 55%;
     height: 102vh;
     background-color: white;
 }
 
-.child_2{
+.child_2 {
     width: 50%;
 }
 
@@ -22,7 +22,6 @@ body {
 }
 
 .user-feild {
-    margin-left: 30px;
     width: 400px;
     height: 420px;
     background-color: white;
@@ -230,7 +229,7 @@ p {
     /* box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); */
 }
 
-.twitter{
+.twitter {
     width: 8%;
     background-color: white;
     border-radius: 50%;
