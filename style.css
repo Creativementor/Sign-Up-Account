@@ -6,29 +6,17 @@ body {
 .parent-container {
     margin-left: 400px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
-<<<<<<< HEAD
     margin-left: 300px;
     margin-top: 50px;
     border-radius: 15px;
     display: flex;
     width: 1000px;
     height: 800px;
-=======
-    margin-top: 50px;
-    border-radius: 15px;
-    display: flex;
-    width: 55%;
-    height: 118vh;
->>>>>>> 0ad5a80f37f422ff51e16621460568b99ec5ba03
     background-color: white;
 }
 
 .child_2 {
-<<<<<<< HEAD
     width: 500px;
-=======
-    width: 50%;
->>>>>>> 0ad5a80f37f422ff51e16621460568b99ec5ba03
 }
 
 .child_1 {
@@ -39,24 +27,19 @@ body {
     width: 500px;
 }
 
-.heading-div{
+.heading-div {
     margin-top: 10px;
     display: flex;
     margin-left: 70px;
 }
 
 .user-feild {
-<<<<<<< HEAD
     gap: 5px;
     display: flex;
     flex-direction: column;
     margin-left: 30px;
     width: 420px;
     height: 300px;
-=======
-    width: 400px;
-    height: 420px;
->>>>>>> 0ad5a80f37f422ff51e16621460568b99ec5ba03
     background-color: white;
     border-radius: 5px;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
@@ -81,8 +64,8 @@ body {
     font-weight: lighter;
 }
 
-input{
-
+input {
+    background-color: white;
     font-size: 15px;
     border: 0;
     outline: 0;
